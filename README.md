@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brunomistro
 - 👀 I’m interested in Web and Java development
-- 🌱 I’m currently learning Go lang
 - 📫 How to reach me @brunomistro here and IG
 
 <!---
