@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brunomistro
-- 👀 I’m interested in Web and Java development
+- 👀 I’m interested in React and Java development
 - 📫 How to reach me @brunomistro here and IG
 
 <!---
