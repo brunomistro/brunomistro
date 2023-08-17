@@ -18,7 +18,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomistro&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomistro&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
+
+![rules](https://github.com/brunomistro/brunomistro/assets/34082572/a51dc07e-9bcd-4f12-9ff1-d2d3ec8e10e7)
+
+*"Prohibited to defend NFT and Cryptocurrency.
+Subject to beat up.
+We'll not accept the things in the hood, etc."*
+
 
 [li]: https://linkedin.com/in/bruno-mistro
 [ig]: https://instagram.com/mistrobruno
