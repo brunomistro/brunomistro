@@ -1,9 +1,9 @@
 <h2 id="-about-me-">🤙 About Me:</h2>
 <p>
-🔭 I’m currently working with Next 14 and Python.
+🔭 I’m currently working with Next 15 and Python.
 </p>
 <p>
-🌱 I’m currently studying basically front-end, Next 12, Svelte, CI/CD.
+🌱 ...
 </p>
 <p>
 💬 Ask me about anything (metaverse is a lie, not like the cake, which is true).
